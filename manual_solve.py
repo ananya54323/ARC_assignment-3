@@ -4,7 +4,7 @@ Created on Sun Nov 28 21:25:40 2021
 
 Name: Ananya Balaji
 ID: 17280049
-
+github repo: https://github.com/ananya54323/ARC_assignment-3.git
 """
 
 #!/usr/bin/python
@@ -13,10 +13,6 @@ import os, sys
 import json
 import numpy as np
 import re
-from pathlib import Path
-from matplotlib import colors
-import matplotlib.pyplot as plt
-
 
 def solve_0a938d79(x): #this is a flash fill example where one element is colored and that decides the colour of the elements in that column
     def row_flash_fill(grid): #filling rows and checking the similarity
